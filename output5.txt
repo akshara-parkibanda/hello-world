@@ -1,4 +1,5 @@
 Test Case #1:
+yesyesyes
 Optimal tour: 1 -> 2 -> 4 -> 3 -> 1
 Minimum Cost: 80
 
@@ -77,4 +78,5 @@ Minimum Cost: 14
 Test Case #20:
 Optimal tour: 1 -> 6 -> 4 -> 2 -> 5 -> 3 -> 1
 Minimum Cost: 39
+
 
