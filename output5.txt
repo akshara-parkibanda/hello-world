@@ -1,0 +1,80 @@
+Test Case #1:
+Optimal tour: 1 -> 2 -> 4 -> 3 -> 1
+Minimum Cost: 80
+
+Test Case #2:
+Optimal tour: 1 -> 2 -> 4 -> 3 -> 1
+Minimum Cost: 62
+
+Test Case #3:
+Optimal tour: 1 -> 3 -> 2 -> 1
+Minimum Cost: 64
+
+Test Case #4:
+Optimal tour: 1 -> 3 -> 2 -> 5 -> 4 -> 1
+Minimum Cost: 19
+
+Test Case #5:
+Optimal tour: 1 -> 4 -> 3 -> 2 -> 1
+Minimum Cost: 30
+
+Test Case #6:
+Optimal tour: 1 -> 2 -> 3 -> 1
+Minimum Cost: 16
+
+Test Case #7:
+Optimal tour: 1 -> 2 -> 5 -> 4 -> 3 -> 1
+Minimum Cost: 25
+
+Test Case #8:
+Optimal tour: 1 -> 6 -> 4 -> 3 -> 5 -> 2 -> 1
+Minimum Cost: 39
+
+Test Case #9:
+Optimal tour: 1 -> 2 -> 3 -> 4 -> 1
+Minimum Cost: 14
+
+Test Case #10:
+Optimal tour: 1 -> 3 -> 2 -> 1
+Minimum Cost: 18
+
+Test Case #11:
+Optimal tour: 1 -> 3 -> 2 -> 5 -> 4 -> 1
+Minimum Cost: 20
+
+Test Case #12:
+Optimal tour: 1 -> 2 -> 3 -> 4 -> 1
+Minimum Cost: 20
+
+Test Case #13:
+Optimal tour: 1 -> 5 -> 4 -> 2 -> 3 -> 1
+Minimum Cost: 15
+
+Test Case #14:
+Optimal tour: 1 -> 2 -> 3 -> 1
+Minimum Cost: 10
+
+Test Case #15:
+Optimal tour: 1 -> 2 -> 3 -> 4 -> 1
+Minimum Cost: 17
+
+Test Case #16:
+Optimal tour: 1 -> 2 -> 5 -> 4 -> 3 -> 1
+Minimum Cost: 25
+
+Test Case #17:
+Optimal tour: 1 -> 4 -> 2 -> 3 -> 1
+Minimum Cost: 23
+
+Test Case #18:
+Optimal tour: 1 -> 5 -> 4 -> 2 -> 3 -> 6 -> 1
+Minimum Cost: 27
+
+Test Case #19:
+Optimal tour: 1 -> 2 -> 5 -> 4 -> 3 -> 1
+Minimum Cost: 14
+
+Test Case #20:
+Optimal tour: 1 -> 6 -> 4 -> 2 -> 5 -> 3 -> 1
+Minimum Cost: 39
+
